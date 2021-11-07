@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @scottincrypto
 - 👀 I’m interested in crypto, particularly Ethereum & Defi
-- 🌱 I’m currently learning about MEV
+- 🌱 
 - 💞️ I’m looking to collaborate on analytics & analysis
 - 📫 @scottincrypto or scottincrypto@gmail.com
 
